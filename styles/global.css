@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.contact-list{
+    display: flex;
+    margin: auto;
+}
